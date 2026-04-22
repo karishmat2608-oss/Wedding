@@ -10,13 +10,13 @@ import { MapPin, Calendar, Heart, Clock, Send, ChevronDown } from 'lucide-react'
 // --- Wedding Configuration ---
 // PASTE YOUR IMAGE LINKS HERE
 const WEDDING_IMAGES = {
-  welcomeBackground: "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/a1259de4-7fa4-4710-849b-8467672ce94d.png",
-  bridePhoto: "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/0189874e-6ad9-4183-87e1-d3888f761f0a.png",
-  groomPhoto: "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/4dabfee4-cef2-4746-a8a2-7618ca5f2920.png",
+  welcomeBackground: "https://res.cloudinary.com/dqonjbtqj/image/upload/v1776871371/fir_hjevff.jpg",
+  bridePhoto: "https://res.cloudinary.com/dqonjbtqj/image/upload/v1776883273/pic11_bzoftd.png",
+  groomPhoto: "https://res.cloudinary.com/dqonjbtqj/image/upload/v1776883279/pic22_yrqkn3.png",
   memories: [
-    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/e2253787-d3db-4aa2-ad28-c6e0ee1f25a2.png",
-    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/699b4499-c129-402c-a7b6-687c310cd1ff.png",
-    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/b145b85c-4097-4712-80b5-22a188387e26.png",
+    "https://res.cloudinary.com/dqonjbtqj/image/upload/v1776883296/fahh_x7wgah.jpg",
+    "https://res.cloudinary.com/dqonjbtqj/image/upload/v1776883306/famfin_zyqiue.jpg",
+    "https://res.cloudinary.com/dqonjbtqj/image/upload/v1776871371/fir_hjevff.jpg",
     "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/9928de3e-fa6c-4b35-a6ae-dcf8e8d883fc.png",
   ]
 };
